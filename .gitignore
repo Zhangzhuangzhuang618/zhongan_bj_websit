@@ -1,0 +1,7 @@
+# Local admin credentials and runtime files
+.admin-auth.json
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+*.tmp-*
